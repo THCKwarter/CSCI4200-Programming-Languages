@@ -1,0 +1,13 @@
+STO number 1
+STO num1 5
+STO num2 7
+OUT number
+SUM result1 num1 num2
+SUB result2 num2 num1
+MUL result3 num2 num2
+DIV result4 num1 num1
+OUT "Testing this."
+JMP theEnd
+OUT "Miss this."
+theEND
+HALT
