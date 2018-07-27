@@ -1,8 +1,6 @@
 # CSCI4200 - Programming Languages
-##############################
 
 # Functional Programming Languages Assignment
-##############################
 
 All programs written by Matthew Johnston for CSCI 4200. These programs are all written in LISP to satisfy the requirements of the assignment.
 
@@ -25,15 +23,12 @@ To run these programs:
 1.3 Quadratic Equation: Find the real roots of a quadratic equation.
 
 1.4 Merge Names: Create a list of first names and a list of last names by inputting each name, one at a time. Merge the two lists into one list consisting of (firstName lastName) pairs. Print out the three lists.
-##############################
 
 # Lexical Analyzer Assignment
 A simple Java lexical analyzer for arithmetic expressions.
-##############################
 
 # Parser Assignment
 Build a parser
-##############################
 
 # SubLC3-Virtual-Machine Assignment
 CS4200 Assignment: SubLC3 Virtual Machine
